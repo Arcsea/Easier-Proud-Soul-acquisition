@@ -1,0 +1,252 @@
+ 驱动器 D 中的卷是 新加卷
+ 卷的序列号是 F442-59CF
+
+ D:\Code\Easier Proud Soul acquisition\src 的目录
+
+2025/12/29  11:44    <DIR>          .
+2025/12/29  11:03    <DIR>          ..
+2025/12/29  11:44                 0 2.txt
+2025/11/22  12:39                16 aa.bat
+2025/12/28  22:22    <DIR>          generated
+2025/12/28  22:21    <DIR>          main
+2025/12/28  22:22    <DIR>          test
+               2 个文件             16 字节
+
+ D:\Code\Easier Proud Soul acquisition\src\generated 的目录
+
+2025/12/28  22:22    <DIR>          .
+2025/12/29  11:44    <DIR>          ..
+2025/12/28  22:22    <DIR>          resources
+               0 个文件              0 字节
+
+ D:\Code\Easier Proud Soul acquisition\src\generated\resources 的目录
+
+2025/12/28  22:22    <DIR>          .
+2025/12/28  22:22    <DIR>          ..
+               0 个文件              0 字节
+
+ D:\Code\Easier Proud Soul acquisition\src\main 的目录
+
+2025/12/28  22:21    <DIR>          .
+2025/12/29  11:44    <DIR>          ..
+2025/12/28  22:21    <DIR>          java
+2025/12/29  11:11    <DIR>          resources
+               0 个文件              0 字节
+
+ D:\Code\Easier Proud Soul acquisition\src\main\java 的目录
+
+2025/12/28  22:21    <DIR>          .
+2025/12/28  22:21    <DIR>          ..
+2025/12/28  22:21    <DIR>          org
+               0 个文件              0 字节
+
+ D:\Code\Easier Proud Soul acquisition\src\main\java\org 的目录
+
+2025/12/28  22:21    <DIR>          .
+2025/12/28  22:21    <DIR>          ..
+2025/12/28  22:21    <DIR>          examplea
+               0 个文件              0 字节
+
+ D:\Code\Easier Proud Soul acquisition\src\main\java\org\examplea 的目录
+
+2025/12/28  22:21    <DIR>          .
+2025/12/28  22:21    <DIR>          ..
+2025/12/29  11:42    <DIR>          easier_proud_soul_acquisition
+               0 个文件              0 字节
+
+ D:\Code\Easier Proud Soul acquisition\src\main\java\org\examplea\easier_proud_soul_acquisition 的目录
+
+2025/12/29  11:42    <DIR>          .
+2025/12/28  22:21    <DIR>          ..
+2025/12/29  11:11    <DIR>          block
+2025/12/29  10:47             4,171 Config.java
+2025/12/29  11:42             3,868 Easier_proud_soul_acquisition.java
+2025/12/29  11:11    <DIR>          item
+               2 个文件          8,039 字节
+
+ D:\Code\Easier Proud Soul acquisition\src\main\java\org\examplea\easier_proud_soul_acquisition\block 的目录
+
+2025/12/29  11:11    <DIR>          .
+2025/12/29  11:42    <DIR>          ..
+2025/12/29  11:11    <DIR>          custom
+2025/12/29  11:11             1,135 ModBlocks.java
+               1 个文件          1,135 字节
+
+ D:\Code\Easier Proud Soul acquisition\src\main\java\org\examplea\easier_proud_soul_acquisition\block\custom 的目录
+
+2025/12/29  11:11    <DIR>          .
+2025/12/29  11:11    <DIR>          ..
+2025/12/29  11:11             1,367 ProudSoulCropBlock.java
+               1 个文件          1,367 字节
+
+ D:\Code\Easier Proud Soul acquisition\src\main\java\org\examplea\easier_proud_soul_acquisition\item 的目录
+
+2025/12/29  11:11    <DIR>          .
+2025/12/29  11:42    <DIR>          ..
+2025/12/29  11:11               998 ModItems.java
+               1 个文件            998 字节
+
+ D:\Code\Easier Proud Soul acquisition\src\main\resources 的目录
+
+2025/12/29  11:11    <DIR>          .
+2025/12/28  22:21    <DIR>          ..
+2025/12/29  11:11    <DIR>          assets
+2025/12/29  11:29    <DIR>          data
+2025/12/28  22:21    <DIR>          META-INF
+2025/12/28  22:21               104 pack.mcmeta
+               1 个文件            104 字节
+
+ D:\Code\Easier Proud Soul acquisition\src\main\resources\assets 的目录
+
+2025/12/29  11:11    <DIR>          .
+2025/12/29  11:11    <DIR>          ..
+2025/12/29  11:35    <DIR>          easier_proud_soul_acquisition
+               0 个文件              0 字节
+
+ D:\Code\Easier Proud Soul acquisition\src\main\resources\assets\easier_proud_soul_acquisition 的目录
+
+2025/12/29  11:35    <DIR>          .
+2025/12/29  11:11    <DIR>          ..
+2025/12/29  11:11    <DIR>          blockstates
+2025/12/29  11:11    <DIR>          lang
+2025/12/29  11:11    <DIR>          models
+2025/12/29  11:36    <DIR>          textures
+               0 个文件              0 字节
+
+ D:\Code\Easier Proud Soul acquisition\src\main\resources\assets\easier_proud_soul_acquisition\blockstates 的目录
+
+2025/12/29  11:11    <DIR>          .
+2025/12/29  11:35    <DIR>          ..
+2025/12/29  11:11                 0 proudsoul_crop.json
+               1 个文件              0 字节
+
+ D:\Code\Easier Proud Soul acquisition\src\main\resources\assets\easier_proud_soul_acquisition\lang 的目录
+
+2025/12/29  11:11    <DIR>          .
+2025/12/29  11:35    <DIR>          ..
+2025/12/29  11:11                 0 en_us.json
+               1 个文件              0 字节
+
+ D:\Code\Easier Proud Soul acquisition\src\main\resources\assets\easier_proud_soul_acquisition\models 的目录
+
+2025/12/29  11:11    <DIR>          .
+2025/12/29  11:35    <DIR>          ..
+2025/12/29  11:11    <DIR>          block
+2025/12/29  11:11    <DIR>          item
+               0 个文件              0 字节
+
+ D:\Code\Easier Proud Soul acquisition\src\main\resources\assets\easier_proud_soul_acquisition\models\block 的目录
+
+2025/12/29  11:11    <DIR>          .
+2025/12/29  11:11    <DIR>          ..
+2025/12/29  11:11                 0 proudsoul_crop_stage0.json
+2025/12/29  11:11                 0 proudsoul_crop_stage1.json
+2025/12/29  11:11                 0 proudsoul_crop_stage2.json
+2025/12/29  11:11                 0 proudsoul_crop_stage3.json
+2025/12/29  11:11                 0 proudsoul_crop_stage4.json
+2025/12/29  11:11                 0 proudsoul_crop_stage5.json
+2025/12/29  11:11                 0 proudsoul_crop_stage6.json
+2025/12/29  11:11                 0 proudsoul_crop_stage7.json
+               8 个文件              0 字节
+
+ D:\Code\Easier Proud Soul acquisition\src\main\resources\assets\easier_proud_soul_acquisition\models\item 的目录
+
+2025/12/29  11:11    <DIR>          .
+2025/12/29  11:11    <DIR>          ..
+2025/12/29  11:11                 0 proudsoul_seed.json
+               1 个文件              0 字节
+
+ D:\Code\Easier Proud Soul acquisition\src\main\resources\assets\easier_proud_soul_acquisition\textures 的目录
+
+2025/12/29  11:36    <DIR>          .
+2025/12/29  11:35    <DIR>          ..
+2025/12/29  11:35    <DIR>          block
+2025/12/29  11:37    <DIR>          item
+               0 个文件              0 字节
+
+ D:\Code\Easier Proud Soul acquisition\src\main\resources\assets\easier_proud_soul_acquisition\textures\block 的目录
+
+2025/12/29  11:35    <DIR>          .
+2025/12/29  11:36    <DIR>          ..
+2025/12/29  11:17               163 proudsoul_crop_stage0.png
+2025/12/29  11:18               191 proudsoul_crop_stage1.png
+2025/12/29  11:19               199 proudsoul_crop_stage2.png
+2025/12/29  11:20               283 proudsoul_crop_stage3.png
+2025/12/29  11:21               277 proudsoul_crop_stage4.png
+2025/12/29  11:22               315 proudsoul_crop_stage5.png
+2025/12/29  11:28               350 proudsoul_crop_stage6.png
+2025/12/29  11:28               298 proudsoul_crop_stage7.png
+               8 个文件          2,076 字节
+
+ D:\Code\Easier Proud Soul acquisition\src\main\resources\assets\easier_proud_soul_acquisition\textures\item 的目录
+
+2025/12/29  11:37    <DIR>          .
+2025/12/29  11:36    <DIR>          ..
+2025/12/29  11:36               183 proudsoul_seed.png
+               1 个文件            183 字节
+
+ D:\Code\Easier Proud Soul acquisition\src\main\resources\data 的目录
+
+2025/12/29  11:29    <DIR>          .
+2025/12/29  11:11    <DIR>          ..
+2025/12/29  11:29    <DIR>          easier_proud_soul_acquisition
+2025/12/29  11:09    <DIR>          forge
+               0 个文件              0 字节
+
+ D:\Code\Easier Proud Soul acquisition\src\main\resources\data\easier_proud_soul_acquisition 的目录
+
+2025/12/29  11:29    <DIR>          .
+2025/12/29  11:29    <DIR>          ..
+2025/12/29  11:29    <DIR>          loot_tables
+               0 个文件              0 字节
+
+ D:\Code\Easier Proud Soul acquisition\src\main\resources\data\easier_proud_soul_acquisition\loot_tables 的目录
+
+2025/12/29  11:29    <DIR>          .
+2025/12/29  11:29    <DIR>          ..
+2025/12/29  11:30    <DIR>          blocks
+               0 个文件              0 字节
+
+ D:\Code\Easier Proud Soul acquisition\src\main\resources\data\easier_proud_soul_acquisition\loot_tables\blocks 的目录
+
+2025/12/29  11:30    <DIR>          .
+2025/12/29  11:29    <DIR>          ..
+2025/12/29  11:30             2,010 proudsoul_crop.json
+               1 个文件          2,010 字节
+
+ D:\Code\Easier Proud Soul acquisition\src\main\resources\data\forge 的目录
+
+2025/12/29  11:09    <DIR>          .
+2025/12/29  11:29    <DIR>          ..
+               0 个文件              0 字节
+
+ D:\Code\Easier Proud Soul acquisition\src\main\resources\META-INF 的目录
+
+2025/12/28  22:21    <DIR>          .
+2025/12/29  11:11    <DIR>          ..
+2025/12/28  22:21             4,381 mods.toml
+               1 个文件          4,381 字节
+
+ D:\Code\Easier Proud Soul acquisition\src\test 的目录
+
+2025/12/28  22:22    <DIR>          .
+2025/12/29  11:44    <DIR>          ..
+2025/12/28  22:22    <DIR>          java
+2025/12/28  22:22    <DIR>          resources
+               0 个文件              0 字节
+
+ D:\Code\Easier Proud Soul acquisition\src\test\java 的目录
+
+2025/12/28  22:22    <DIR>          .
+2025/12/28  22:22    <DIR>          ..
+               0 个文件              0 字节
+
+ D:\Code\Easier Proud Soul acquisition\src\test\resources 的目录
+
+2025/12/28  22:22    <DIR>          .
+2025/12/28  22:22    <DIR>          ..
+               0 个文件              0 字节
+
+     所列文件总数:
+              30 个文件         20,309 字节
+              92 个目录 257,713,770,496 可用字节

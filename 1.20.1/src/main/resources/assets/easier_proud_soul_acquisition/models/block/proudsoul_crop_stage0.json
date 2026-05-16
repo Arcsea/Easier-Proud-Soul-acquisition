@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/crop",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "crop": "easier_proud_soul_acquisition:block/proudsoul_crop_stage0"
+  }
+}
+

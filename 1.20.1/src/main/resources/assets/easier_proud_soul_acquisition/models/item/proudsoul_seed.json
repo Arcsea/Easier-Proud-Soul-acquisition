@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "easier_proud_soul_acquisition:item/proudsoul_seed"
+  }
+}
+
