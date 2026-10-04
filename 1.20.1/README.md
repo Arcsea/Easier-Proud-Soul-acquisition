@@ -1,42 +1,25 @@
-# Easier Proud Soul Acquisition
+# Minecraft 1.20.1 Forge 版本
 
-Minecraft Forge **1.20.1** addon mod.
+此目录是「简易耀魂获取」的 Minecraft **1.20.1 / Forge** 项目，开发环境使用
+**Java 17**，需要安装 SlashBlade: Resharped。
 
-## License
+## 功能
 
-Code: MIT. Models and textures: CC BY-NC 4.0 (noncommercial use with attribution).
-See [LICENSE](../LICENSE) and [LICENSE-ASSETS.md](../LICENSE-ASSETS.md) for scope
-and terms. Permissions granted for previously released versions remain unchanged.
+- 破坏草、高草或蕨，默认有 10% 概率掉落耀魂种子。
+- 在耕地上种植种子，作物经过 0～7 共八个生长阶段。
+- 成熟作物收获 1～3 个耀魂和 1～2 个种子；未成熟作物掉落种子。
+- 种子掉落概率可通过 `config/easier_proud_soul_acquisition-common.toml`
+  中的 `grass_seed_drop.chance` 调整。
 
-## Feature
-Adds an extra way to obtain SlashBlade:Resharped item `slashblade:proudsoul`:
+## 构建
 
-- When **grass, tall grass, or fern** is broken, there is a **10%** chance to drop `proudsoul_seed`.
-- Plant the seeds to grow proudsoul crops that yield `slashblade:proudsoul`.
+在此目录运行 `./gradlew build`（Windows 使用 `gradlew.bat build`）。
+输出位于 `build/libs/`，JAR 名称包含 `forge-1.20.1`。
 
-Implementation modifies grass loot tables to add seed drops.
+SlashBlade 开发依赖优先使用 `libs/SlashBlade_Resharped-0.6.0.jar`；
+该文件不存在时，构建脚本从 CurseMaven 获取依赖。
 
-## Dev setup
-This project depends on `SlashBlade_Resharped` from MMMaven.
+## 许可
 
-### If Gradle fails to download from MMMaven (SSL/PKIX)
-Some networks / Windows trust stores can cause:
-
-`SSLHandshakeException: PKIX path building failed`
-
-Workarounds:
-
-1. **Recommended**: download the mod jar manually and put it in `libs/`.
-   - Create `libs/`
-   - Put `SlashBlade_Resharped-<version>.jar` there
-   - The build script can be configured to use `flatDir { dir 'libs' }`.
-
-2. Configure your corporate proxy / install missing CA certificates for Java.
-
-## Config / Data
-Global loot modifier JSON:
-- `src/main/resources/data/forge/loot_modifiers/global_loot_modifiers.json`
-- `src/main/resources/data/forge/loot_modifiers/proudsoul_drop.json`
-
-You can tweak the drop chance in the mod's config file (`config/easier_proud_soul_acquisition-common.toml`).
-
+代码：MIT，见 [LICENSE](../LICENSE)。
+模型与材质：非商用（CC BY-NC 4.0），见 [LICENSE-ASSETS.md](../LICENSE-ASSETS.md)。
