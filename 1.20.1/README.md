@@ -2,6 +2,12 @@
 
 Minecraft Forge **1.20.1** addon mod.
 
+## License
+
+Code: MIT. Models and textures: CC BY-NC 4.0 (noncommercial use with attribution).
+See [LICENSE](../LICENSE) and [LICENSE-ASSETS.md](../LICENSE-ASSETS.md) for scope
+and terms. Permissions granted for previously released versions remain unchanged.
+
 ## Feature
 Adds an extra way to obtain SlashBlade:Resharped item `slashblade:proudsoul`:
 

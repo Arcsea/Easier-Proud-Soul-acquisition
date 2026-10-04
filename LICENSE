@@ -19,3 +19,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Scope: This MIT license applies to the project's source code, build scripts,
+documentation, translations, and gameplay data. Models and textures in the
+current distribution are covered separately by LICENSE-ASSETS.md.
+Permissions already granted for previously released versions remain unchanged.
