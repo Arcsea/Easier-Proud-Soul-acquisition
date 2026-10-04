@@ -18,8 +18,7 @@ It also applies to the corresponding `assets/<mod_id>/models/` and
 
 You may share and adapt these assets for noncommercial purposes, provided you
 credit Arcsea and Easier Proud Soul Acquisition, retain the license notice,
-link to the license, and indicate any changes. Commercial use requires separate
-permission from the rights holder.
+link to the license, and indicate any changes.
 
 The full license terms govern use:
 https://creativecommons.org/licenses/by-nc/4.0/legalcode.en
@@ -27,5 +26,4 @@ https://creativecommons.org/licenses/by-nc/4.0/legalcode.en
 Project: https://github.com/Arcsea/Easier-Proud-Soul-acquisition
 
 This notice does not revoke permissions previously granted for older versions
-of these assets, or change the licenses of third-party materials. Source code
-and other project files remain under the MIT license in `LICENSE`.
+of these assets, or change the licenses of third-party materials.
