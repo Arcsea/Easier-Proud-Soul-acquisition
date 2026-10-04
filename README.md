@@ -15,9 +15,8 @@
 ## 许可 / Licensing
 
 - **代码、构建脚本、文档、翻译及玩法数据：MIT**，见 [LICENSE](LICENSE)。
-- **模型与材质：CC BY-NC 4.0（署名—非商业性使用）**，范围及条款见
-  [LICENSE-ASSETS.md](LICENSE-ASSETS.md)。允许非商业分享与修改，须署名、
-  保留许可并标明修改；商业使用需要另行获得授权。
+- **模型与材质：非商用（CC BY-NC 4.0）**，见
+  [LICENSE-ASSETS.md](LICENSE-ASSETS.md)。
 
 Source code is licensed under MIT. Models and textures in this distribution
 are licensed under CC BY-NC 4.0. Permissions granted for previously released
